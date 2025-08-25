@@ -20,7 +20,7 @@ The problems cover a wide range of topics to strengthen problem-solving skills, 
 ✅ Ready-to-run .js files for quick execution
 
 
-Name: Sanchay Kumar Singh
+Name: Sanchay Kumar Singh <br/>
 Email: (mailto:sanchaysingh62425@gmail.com) <br/>
 GitHub:https://github.com/Sanchay-Kumar-Singh <br/>
 LinkedIn:https://www.linkedin.com/in/sanchay-kumar-singh-a48155297/
