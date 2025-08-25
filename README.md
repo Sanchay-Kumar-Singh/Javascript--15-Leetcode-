@@ -1,4 +1,4 @@
-LeetCode JavaScript Solutions – 30 Problems Solutions 
+<h1>LeetCode JavaScript Solutions – 30 Problems Solutions </h1>
 
 By: Sanchay Kumar Singh
 Language: JavaScript 
@@ -21,6 +21,6 @@ The problems cover a wide range of topics to strengthen problem-solving skills, 
 
 
 Name: Sanchay Kumar Singh
-Email: (mailto:sanchaysingh62425@gmail.com)
-GitHub:https://github.com/Sanchay-Kumar-Singh 
+Email: (mailto:sanchaysingh62425@gmail.com) <br/>
+GitHub:https://github.com/Sanchay-Kumar-Singh <br/>
 LinkedIn:https://www.linkedin.com/in/sanchay-kumar-singh-a48155297/
