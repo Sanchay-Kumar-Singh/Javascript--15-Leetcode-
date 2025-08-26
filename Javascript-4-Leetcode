@@ -1,0 +1,15 @@
+2665. Counter II
+
+    var obj={
+        increment(){
+     return init +=1
+        },
+        decrement(){
+      return init-=1
+        },
+        reset(){
+            return init=n
+        }
+    }
+    return obj;
+};
