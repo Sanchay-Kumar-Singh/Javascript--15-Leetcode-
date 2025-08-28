@@ -1,4 +1,4 @@
-<h1>LeetCode JavaScript Solutions – 30 Problems Solutions </h1>
+<h1>LeetCode JavaScript Solutions – 15 Problems Solutions </h1>
 
 By: Sanchay Kumar Singh
 Language: JavaScript 
@@ -6,12 +6,12 @@ Platform: LeetCode
 
 📌 Overview
 
-This repository contains my solutions to 30 carefully selected JavaScript problems on LeetCode.
+This repository contains my solutions to 15 carefully selected JavaScript problems on LeetCode.
 The problems cover a wide range of topics to strengthen problem-solving skills, build algorithmic thinking, and prepare for technical interviews.
 
 🌟 Highlights
 
-✅ 30 problems solved with clean and optimized code
+✅ 15 problems solved with clean and optimized code
 
 ✅ Solutions grouped by categories for easy navigation
 
